@@ -4,6 +4,7 @@ from PIL import Image
 
 
 #Color's pallet
+#
 
 red = "#FF0000"
 dark_red = "#CC0000"
